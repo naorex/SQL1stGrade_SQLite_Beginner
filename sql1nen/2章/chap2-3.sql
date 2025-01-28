@@ -1,0 +1,1 @@
+SELECT customer FROM sales;

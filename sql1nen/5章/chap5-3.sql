@@ -1,0 +1,7 @@
+CREATE TABLE item (
+item_id INTEGER PRIMARY KEY,
+item_name TEXT NOT NULL,
+price INTEGER NOT NULL, 
+farm TEXT NOT NULL,
+date TEXT NOT NULL
+);

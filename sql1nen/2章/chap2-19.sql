@@ -1,0 +1,1 @@
+SELECT * FROM sales WHERE item_name IN('リンゴ', 'イチゴ');

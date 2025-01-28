@@ -1,0 +1,1 @@
+INSERT INTO item VALUES (7, 'スイカ', 600, '千葉', '2023-04-10');

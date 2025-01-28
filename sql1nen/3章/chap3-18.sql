@@ -1,0 +1,1 @@
+SELECT * FROM sales ORDER BY item_count DESC, price DESC;

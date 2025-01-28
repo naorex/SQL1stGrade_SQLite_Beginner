@@ -1,0 +1,1 @@
+SELECT item_name, COUNT(*)  FROM sales GROUP BY customer;

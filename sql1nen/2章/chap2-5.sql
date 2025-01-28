@@ -1,0 +1,1 @@
+SELECT date, item_name, item_count FROM sales;

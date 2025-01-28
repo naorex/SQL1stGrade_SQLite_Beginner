@@ -1,0 +1,2 @@
+DELETE FROM sales;
+SELECT * FROM sales;

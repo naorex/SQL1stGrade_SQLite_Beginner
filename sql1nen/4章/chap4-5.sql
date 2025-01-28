@@ -1,0 +1,1 @@
+INSERT INTO sales VALUES ('2023-04-16', 'バナナ', 2, 400);

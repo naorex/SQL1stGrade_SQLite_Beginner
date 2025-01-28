@@ -1,0 +1,1 @@
+SELECT ROUND(5.678,2);

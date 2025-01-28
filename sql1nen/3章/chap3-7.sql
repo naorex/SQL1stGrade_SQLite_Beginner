@@ -1,0 +1,1 @@
+SELECT customer, COUNT(*)  FROM sales GROUP BY customer;

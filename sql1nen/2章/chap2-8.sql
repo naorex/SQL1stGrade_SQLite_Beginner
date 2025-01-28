@@ -1,0 +1,1 @@
+SELECT item_name AS "<商品名>" FROM sales;

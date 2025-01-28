@@ -1,0 +1,1 @@
+SELECT customer, GROUP_CONCAT(item_name) FROM sales GROUP BY customer;

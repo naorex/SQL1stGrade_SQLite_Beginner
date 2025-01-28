@@ -1,0 +1,1 @@
+SELECT DISTINCT customer FROM sales;

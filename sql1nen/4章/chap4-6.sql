@@ -1,0 +1,1 @@
+SELECT COUNT(*), COUNT(customer) FROM sales;

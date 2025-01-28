@@ -1,0 +1,1 @@
+SELECT MIN(date), MAX(date) FROM sales;
